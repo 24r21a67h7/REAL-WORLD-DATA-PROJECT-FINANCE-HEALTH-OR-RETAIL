@@ -1,1 +1,1 @@
-# REAL-WORLD-DATA-PROJECT-FINANCE-HEALTH-OR-RETAIL
+# Exploratory Data Analysis (EDA) Project
